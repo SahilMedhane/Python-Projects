@@ -1,0 +1,4 @@
+- 🔭 I’m currently working on some more python projects
+- 🌱 I’m currently learning new frameworks that inhance coding in python
+- 👯 I’m looking to collaborate on my next project which is auto helmet detection
+- 📫 How to reach me: number 9022530193 email- sahilmedhane1000@gmail.com
